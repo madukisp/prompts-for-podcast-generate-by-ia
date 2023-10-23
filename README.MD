@@ -94,6 +94,37 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/110678035?v=4"
+    />
+    <p>&nbsp&nbsp&nbspAmanda DuKawa<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/dukawa">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/amanda-duque-kawa/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/madukisp/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por 
+[Felipe Aguiar](https://github.com/felipeAguiarCode)
+e
+[Amanda Dukawa](https://github.com/madukisp)
